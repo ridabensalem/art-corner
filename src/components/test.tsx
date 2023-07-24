@@ -1,4 +1,7 @@
 const Test = () => {
   return <div>test</div>;
+  // define route
+  
+
 }
-export default Test;
+export  {Test};
